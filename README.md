@@ -1,4 +1,4 @@
-# NotePad Application
+# QuickNote Application
 Kullanıcı kaydı, giriş-çıkış sistemi içeren not defteri uygulaması
 ## Gereksinimler
 1. Kullanıcılar sisteme kayıt olabilmeli.
